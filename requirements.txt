@@ -1,0 +1,9 @@
+Flask
+flask_cors
+numpy
+Keras
+gevent
+pillow
+h5py
+tensorflow
+imutils
